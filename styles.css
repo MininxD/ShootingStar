@@ -5,7 +5,7 @@ body {
     justify-content: center;
     align-items: center;
     background: #3d3d3d;
-    /*background-image: url(./images/nightsky.jpg);*/
+    background-image: url('https://unsplash.com/photos/black-and-white-polka-dot-textile-UWY8nGROvbk');
     overflow: hidden;
     background-position: center;
     background-size: cover;
