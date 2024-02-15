@@ -4,6 +4,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background:#3d3d3d;
     /*background-image: url(./images/nightsky.jpg);*/
     overflow: hidden;
     background-position: center;
